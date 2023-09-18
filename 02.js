@@ -1,3 +1,5 @@
+//// Assignment 2
+
 
 let username="admin";
 
@@ -9,3 +11,7 @@ if(username == "admin" && password == "12345"){
 }else{
     console.log("Invalid Credentials");
 }
+
+//Output
+
+// Login Successfull

@@ -1,3 +1,6 @@
+// Assignment 10
+
+
 let arr = [1,2,-3,5,-9,-8,-7,-7];
 
 for (let index = 0; index < arr.length; index++) {
@@ -6,3 +9,9 @@ for (let index = 0; index < arr.length; index++) {
         }
     
 }
+
+// Output
+
+// 1
+// 2
+// 5

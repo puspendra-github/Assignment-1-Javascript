@@ -1,3 +1,5 @@
+// Assignment 6
+
 let name = "Mithun";
 
 let email = "mithun,s@pw.live";
@@ -16,3 +18,7 @@ else if(typeof age!== "number"){
 else{
     console.log(`Yahh!!! All the fields are proper.`)
 }
+
+// Output
+
+// Yahh!!! All the fields are proper.

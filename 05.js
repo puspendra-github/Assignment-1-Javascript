@@ -1,3 +1,5 @@
+// Assignment 5
+
 let standard;
 let express;
 let overnight;
@@ -17,3 +19,6 @@ switch (standard) {
         console.log("Invalid")
         break;
 }
+
+// output 
+// Might take 3-5 days

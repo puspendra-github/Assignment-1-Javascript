@@ -1,3 +1,6 @@
+// Assignment 4
+
+
 let numberofChilds = 2;
 let numberofAdults = 1;
 let numberofSeniors = 1;
@@ -10,3 +13,6 @@ let totalPrice= numberofChilds*ticketForChild+ numberofAdults*ticketForadult+ nu
 
 console.log(`The total ticket price is ${totalPrice}`);
 
+// Output
+
+// The total ticket price is 470
